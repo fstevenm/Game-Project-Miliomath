@@ -1,4 +1,4 @@
-## Game-Project-TrueOrFalse
+## Game-Project-Milliomath
 
 I have created a game using the GUI library in Python, namely tkinter.
 
